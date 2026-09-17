@@ -1,0 +1,6 @@
+{
+  "name": "Kasab Gallery",
+  "description": "একটি প্রিমিয়াম, খাঁটি ও স্বাস্থ্যকর লাইফস্টাইল ই-কমার্স প্ল্যাটফর্ম যা প্রাকৃতিক খাদ্য, স্কিনকেয়ার, পোশাক এবং লাইফস্টাইল সামগ্রী বিক্রয় করে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
